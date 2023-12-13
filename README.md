@@ -2,7 +2,7 @@
 
 ## Novos Recursos
 
-Este documento destaca as adições recentes ao Vimana Framework para uma tarefas sobre frameworks, focando em três novos hotspots que expandem significativamente as capacidades do framework.
+Este documento destaca as adições recentes ao Vimana Framework para uma tarefa sobre frameworks, focando em três novos hotspots que expandem significativamente as capacidades do framework.
 
 ### 1. API Security Auditor (Plugin Siddhi)
 O novo plugin 'API Security Auditor' é uma adição poderosa ao nosso conjunto de ferramentas. Este plugin é projetado para auditar cabeçalhos de segurança em APIs, garantindo a presença de cabeçalhos essenciais como 'Content-Security-Policy' e 'X-Frame-Options'.
